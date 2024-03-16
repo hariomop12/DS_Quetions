@@ -1,6 +1,8 @@
-Certainly! Below is a **README** file in the requested format. Feel free to use this as a template for your project:
+Q1 ⦁	Reading different types of data sets (.txt, .csv) from web and disk and writing in file in specific disk location.
+   ⦁	Reading Excel data sheet in python.
+   ⦁	Reading XML dataset in python.
 
----
+ ---
 
 # Reading and Writing Different Types of Datasets using Python 🐍📊
 
